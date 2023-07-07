@@ -1,5 +1,5 @@
 {
-    "categories":[{
+    "category":[{
         "_id": {
           "$oid": "642a2be3d7bcf7df9146e9d4"
         },
@@ -48,7 +48,7 @@
           "$date": "2023-04-11T06:30:52.335Z"
         }
       }],
-    "orders":[{
+    "order":[{
         "_id": {
           "$oid": "64351e70fea2cec252355bae"
         },
@@ -160,7 +160,7 @@
           "$date": "2023-04-11T10:39:07.662Z"
         }
       }],
-    "users": [
+    "user": [
         [{
             "_id": {
               "$oid": "64351bb207e7a8ca86b9f013"
@@ -179,7 +179,7 @@
             }
           }]
     ],
-    "products": [
+    "product": [
         {
             "id": 1,
             "name": "Samsung Galaxy S23 Ultra",
